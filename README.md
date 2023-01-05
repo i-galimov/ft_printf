@@ -40,4 +40,4 @@ void	ft_upper_hexadecimal(unsigned long long n, int *i)
 ********
 > ***Печать — это наиболее общий для индивидов способ раскрытия их духовного бытия. Она руководствуется уважением не к отдельным личностям, а только к разуму..***
 > 
-![Печать](https://cdn.pixabay.com/photo/2014/05/21/22/28/old-newspaper-350376_1280.jpg)
+![Печать](https://biznes-prost.ru/wp-content/uploads/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%BA.jpg)
