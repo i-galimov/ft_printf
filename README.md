@@ -1,7 +1,6 @@
 # Проект ft_printf (без бонусов)
 
 ### 
-> *Printf нужно заслужить!*
 * [**Makefile**](https://github.com/i-galimov/ft_printf/blob/main/printf/Makefile)
 * [**Header**](https://github.com/i-galimov/ft_printf/blob/main/printf/ft_printf.h)
 * [**ft_printf**](https://github.com/i-galimov/ft_printf/blob/main/printf/ft_printf.c)
